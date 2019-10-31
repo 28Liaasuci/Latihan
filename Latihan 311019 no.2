@@ -1,0 +1,20 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+   int total_belanja,diskon,harga;
+    cout<<"Total Belanja : "; 
+    cin>>total_belanja;
+    if(total_belanja>=100000){
+        diskon = total_belanja * 0.25;
+        harga = total_belanja - diskon;
+        cout<<"Diskon yang didapatkan: "<<diskon<<endl;
+        cout<<"Total harga: "<<harga<<endl;
+    }else{
+        diskon = total_belanja * 0;
+        harga = total_belanja - diskon;
+        cout<<"Diskon yang didapatkan: "<<diskon<<endl;
+        cout<<"Total Harga: "<<harga<<endl;
+    }
+}
