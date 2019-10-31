@@ -1,27 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@28Liaasuci
-
-1
-0
-
-    0
-
-dmnofan/Latihan-praktikum
-Code
-Issues 0
-Pull requests 0
-Projects 0
-Wiki
-Security
-Insights
-Latihan-praktikum/Latihan 31 Okt no 7 b
-@dmnofan dmnofan Create Latihan 31 Okt no 7 b 9a41bf8 10 minutes ago
-100 lines (95 sloc) 1.38 KB
 #include <iostream>
 
 using namespace std;
@@ -122,17 +98,5 @@ int main() {
     goto a;
 }
 
-    © 2019 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
-
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
+  
 
