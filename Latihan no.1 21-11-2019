@@ -1,0 +1,22 @@
+#include <iostream>
+
+using namespace std;
+
+void bilangan genap (int N);
+
+void bilangan genap (int N){
+    int Jumlah = 0;
+    for (int=1; i<=n; i++){
+        if (i % 2 == 0){
+            jumlah= jumlah+1
+        }
+    }
+    cout<<"jumlah bilangan genap:"<< jumlah;
+}
+
+int main(){
+    int N;
+    cout<<"masukkan jumlah bilangan:";
+    cin>> N;
+  bilangan genap (N);
+}
